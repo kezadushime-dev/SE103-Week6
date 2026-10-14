@@ -1,0 +1,5 @@
+Full Name: Iyaremye Dushime Keza Kevin
+GitHub Username: kezadushime-dev
+Date Started: 2026-10-14
+Auth Method: PAT
+One Git habit I want to improve: I want to inspect my changes before committing them to avoid mistakes.

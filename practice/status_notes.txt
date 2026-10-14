@@ -1,0 +1,7 @@
+Student Name: Iyaremye Dushime Keza Kevin
+
+What I check before committing:
+Before committing, I check which files have changed by running git status. I review the changes using git diff to make sure I understand what I am committing. I also check for accidental files, sensitive information, and mistakes in my work. Finally, I make sure the changes relate to the purpose of the commit.
+
+What I am committing now and why:
+I am committing these notes to record my habit of inspecting changes before making a commit. This will help me keep my project organized and avoid committing unwanted files.

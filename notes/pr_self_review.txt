@@ -1,0 +1,5 @@
+Student Name: Iyaremye Dushime Keza
+What changed: I added a dedicated Git care habits section to the README file to document practical workflows for clean version control. I also created this self-review log file to evaluate my documentation changes.
+How I verified the change: I ran git status and reviewed the file contents locally to make sure formatting was clean and all required headings were properly nested. I also double-checked that my identity lines remained intact at the top.
+One possible improvement a reviewer might suggest: A reviewer might suggest adding brief code examples or terminal commands illustrating each Git habit in action.
+Professional response I would give: Thank you for the suggestion! That's a great idea to make the guide even more practical; I will add a quick command snippet example for git diff and status in a follow-up commit.

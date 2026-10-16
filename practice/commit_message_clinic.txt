@@ -1,0 +1,11 @@
+Student Name: Iyaremye Dushime Keza
+Weak message 1: updates
+Improved message 1: fix navigation bar alignment bug in header component
+Why this is better: It explicitly tells the team what part of the code was changed and the nature of the modification, rather than using a vague placeholder.
+Weak message 2: final final
+Improved message 2: complete user authentication profile endpoint implementation
+Why this is better: "Final final" gives zero context about what was accomplished, whereas a descriptive message marks a specific functional milestone.
+Weak message 3: stuff
+Improved message 3: refactor database connection helper configuration
+Why this is better: It replaces a lazy, non-informative term with a precise technical action and target.
+My personal commit message rule: Always use the imperative mood starting with a clear action verb like add, fix, update, or refactor, followed by the specific component or feature affected. Keep the summary concise and meaningful so anyone browsing the log immediately understands the context.

@@ -1,0 +1,7 @@
+Student Name: Iyaremye Dushime Keza
+Patterns in my .gitignore:
+.DS_Store
+*.log
+temp/secret.env
+What git status showed about the ignored files: Running git status confirmed that the specified secret and log files were completely hidden from the list of untracked files. The .gitignore rules successfully prevented Git from tracking secret.env, practice/app.log, and the temp directory. Only allowed files were shown as ready to stage.
+Why committing secrets is dangerous: Hardcoding or committing secrets such as API keys, passwords, or tokens directly into a public or private repository exposes sensitive resources to unauthorized access. Malicious actors use automated bots to scan commit histories for exposed credentials. Once a secret is pushed into a Git commit history, removing it entirely requires rewriting repository history and immediately revoking the compromised credential.

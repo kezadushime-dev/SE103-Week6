@@ -1,0 +1,7 @@
+Student Name: Iyaremye Dushime Keza
+GitHub Username: kezadushime-dev
+Repository: SE103-Week6
+Repository URL: https://github.com/kezadushime-dev/SE103-Week6
+Git habits I demonstrated this week: I practiced making atomic, small commits rather than giant bulk uploads. I consistently used git status and git diff to inspect changes before staging. I configured a .gitignore file to successfully exclude secret configuration files and logs. I wrote descriptive commit messages and practiced branching with pull requests. Finally, I maintained a clean directory structure across all tasks.
+One mistake-prevention habit I will keep: I will always check git status before staging files to ensure no accidental environment files, credentials, or build artifacts slip into my repository history.
+All required files are on main: Yes
